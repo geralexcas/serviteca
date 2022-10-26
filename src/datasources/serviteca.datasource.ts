@@ -4,7 +4,7 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'serviteca',
   connector: 'mongodb',
-  url: 'mongodb+srv://geralexcasmagno:kg9OVGMV37BleWNz@clusterger.n8jw38h.mongodb.net/servitecav1?retryWrites=true&w=majority',
+  url: 'mongodb+srv://geralexcasmagno:kg9OVGMV37BleWNz@clusterger.n8jw38h.mongodb.net/servitecav11?retryWrites=true&w=majority',
   host: '',
   port: 0,
   user: '',

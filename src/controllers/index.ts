@@ -6,3 +6,4 @@ export * from './administrador-datos-servicio.controller';
 export * from './datos-servicio-cliente.controller';
 export * from './datos-servicio-veiculo.controller';
 export * from './datos-servicio-administrador.controller';
+export * from './servicio-datos-servicio.controller';
