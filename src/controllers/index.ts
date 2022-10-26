@@ -7,3 +7,8 @@ export * from './datos-servicio-cliente.controller';
 export * from './datos-servicio-veiculo.controller';
 export * from './datos-servicio-administrador.controller';
 export * from './servicio-datos-servicio.controller';
+export * from './cliente.controller';
+export * from './servicio.controller';
+export * from './veiculo.controller';
+export * from './administrador.controller';
+export * from './datos-servicio.controller';
