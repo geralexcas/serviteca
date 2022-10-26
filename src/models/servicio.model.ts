@@ -27,6 +27,10 @@ export class Servicio extends Entity {
   })
   valor_servicio: string;
 
+  @property({
+    type: 'string',
+  })
+  datosServicioId?: string;
 
   constructor(data?: Partial<Servicio>) {
     super(data);
